@@ -14,6 +14,7 @@
 		97CC42A1200BB77A00875841 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97CC429F200BB77A00875841 /* LaunchScreen.storyboard */; };
 		97CC42AC200BB77B00875841 /* WeatherAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97CC42AB200BB77B00875841 /* WeatherAppTests.swift */; };
 		97CC42B7200BB77B00875841 /* WeatherAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97CC42B6200BB77B00875841 /* WeatherAppUITests.swift */; };
+		97CC42C9200BB92500875841 /* stas-ovsky-249571.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 97CC42C8200BB92500875841 /* stas-ovsky-249571.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		97CC42B2200BB77B00875841 /* WeatherAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97CC42B6200BB77B00875841 /* WeatherAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppUITests.swift; sourceTree = "<group>"; };
 		97CC42B8200BB77B00875841 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97CC42C8200BB92500875841 /* stas-ovsky-249571.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stas-ovsky-249571.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		97CC4295200BB77A00875841 /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
+				97CC42C8200BB92500875841 /* stas-ovsky-249571.jpg */,
 				97CC4296200BB77A00875841 /* AppDelegate.swift */,
 				97CC4298200BB77A00875841 /* ViewController.swift */,
 				97CC429A200BB77A00875841 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				97CC42A1200BB77A00875841 /* LaunchScreen.storyboard in Resources */,
+				97CC42C9200BB92500875841 /* stas-ovsky-249571.jpg in Resources */,
 				97CC429E200BB77A00875841 /* Assets.xcassets in Resources */,
 				97CC429C200BB77A00875841 /* Main.storyboard in Resources */,
 			);
